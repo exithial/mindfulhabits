@@ -1,6 +1,6 @@
-# mindfulhabits
+# MindfulHabits
 
-A new Flutter project.
+Organiza y optimiza el tiempo en tus hábitos diarios.
 
 ## Getting Started
 
